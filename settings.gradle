@@ -1,0 +1,5 @@
+rootProject.name = 'okrapp'
+include 'backend:core'
+include 'backend:api'
+include 'frontend'
+
