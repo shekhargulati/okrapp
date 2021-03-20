@@ -1,5 +1,7 @@
 # okrapp
 
+[![OKRApp CI](https://github.com/shekhargulati/okrapp/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/shekhargulati/okrapp/actions/workflows/ci.yml)
+
 Install Java using Jabba
 
 ```
@@ -27,3 +29,5 @@ okrapp
         api
     frontend
 ```
+
+To read more refer to [architecture section](./docs/architecture.md)
