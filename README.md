@@ -2,6 +2,9 @@
 
 [![OKRApp CI](https://github.com/shekhargulati/okrapp/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/shekhargulati/okrapp/actions/workflows/ci.yml)
 
+
+> **I am building it live on Twitch https://www.twitch.tv/shekhargulati. You can follow me on Twitch if you want to be notified when I do my next stream.**
+
 Install Java using Jabba
 
 ```
